@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/Glow Black And White GIF by xponentialdesign.gif" width="380"/>
+<img src="img/Space Stars GIF by SwitchMedia.gif" width="380"/>
 
 # TON
 
