@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="img/Glow Black And White GIF by xponentialdesign.gif" width="100%"/>
+<img src="img/Glow Black And White GIF by xponentialdesign.gif" width="380"/>
 
 # TON
 
 ### Inspired by TON 618
 
-Building AI Systems Beyond the Event Horizon
+> Exploring the Limits of Intelligence
 
 AI • Machine Learning • Data Analytics • Robotics
 
@@ -14,18 +14,52 @@ AI • Machine Learning • Data Analytics • Robotics
 
 ---
 
-### About Me
+## About Me
 
-I'm Fathir Rizki Fadillah, an IT student focused on Artificial Intelligence, Machine Learning, and Intelligent Systems.
+I'm **Fathir Rizki Fadillah**, an IT student passionate about Artificial Intelligence and Intelligent Systems.
 
-Currently exploring:
+### Current Focus
 
 - Machine Learning
 - Deep Learning
-- AI Integration
-- Robotics
+- AI Integration & Automation
 - Data Analytics
+- Robotics
 
-My long-term goal is to build large-scale AI systems and create technologies that solve real-world problems.
+### Long-Term Vision
+
+To build intelligent systems that solve real-world problems and contribute to the future of AI.
 
 ---
+
+## Featured Projects
+
+🚀 Dynamic Evacuation Pathfinding
+
+🤖 EchaBot
+
+📊 European Flight Traffic Analysis
+
+🚀 Rocket Simulation OpenGL
+
+---
+
+## Currently Learning
+
+```python
+learning = [
+    "Machine Learning",
+    "Deep Learning",
+    "AI Engineering",
+    "Robotics",
+    "System Design"
+]
+```
+
+---
+
+## Philosophy
+
+> Knowledge has no event horizon.
+>
+> There is always something beyond.
