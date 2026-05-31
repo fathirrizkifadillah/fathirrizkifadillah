@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/Glow Black And White GIF by xponentialdesign.gif" width="450"/>
+<img src="img/Glow Black And White GIF by xponentialdesign.gif" width="100%"/>
 
 # TON
 
