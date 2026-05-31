@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="img/Space Stars GIF by SwitchMedia.gif" width="380"/>
+<img src="img/Space Stars GIF by SwitchMedia.gif" width="550"/>
 
 # TON
 
 ### Inspired by TON 618
 
-> Exploring the Limits of Intelligence
+*Exploring the Limits of Intelligence*
 
 AI • Machine Learning • Data Analytics • Robotics
 
 </div>
+
+<br>
 
 ---
 
