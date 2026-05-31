@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fathirrizkifadillah/fathirrizkifadillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="img/Glow Black And White GIF by xponentialdesign.gif" width="450"/>
 
-Here are some ideas to get you started:
+# TON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Inspired by TON 618
+
+Building AI Systems Beyond the Event Horizon
+
+AI • Machine Learning • Data Analytics • Robotics
+
+</div>
+
+---
+
+### About Me
+
+I'm Fathir Rizki Fadillah, an IT student focused on Artificial Intelligence, Machine Learning, and Intelligent Systems.
+
+Currently exploring:
+
+- Machine Learning
+- Deep Learning
+- AI Integration
+- Robotics
+- Data Analytics
+
+My long-term goal is to build large-scale AI systems and create technologies that solve real-world problems.
+
+---
