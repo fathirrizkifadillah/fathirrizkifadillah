@@ -58,11 +58,44 @@
 
 ---
 
+### Companies I follow
+
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/META-0467DF?style=for-the-badge&logo=meta&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Anthropic-D4A373?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Palantir-101113?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Cerebras-00B388?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Alibaba-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white">
+</p>
+
+---
+
+### News Sources I Follow
+
+<p>
+  <img src="https://img.shields.io/badge/Reuters-FF8000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AP_News-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BBC-News_BBC?style=for-the-badge&logo=bbc&logoColor=white">
+  <img src="https://img.shields.io/badge/TechCrunch-00D564?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MIT_Technology_Review-A31F34?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ars_Technica-FF4E00?style=for-the-badge">
+</p>
+
+---
+
 ### My Idol 😎💪
 
 <p>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX1650">
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA">
 </p>
+
+Jensen Huang
+Founder & CEO of NVIDIA
 
   <img src="img/Jensen-huang.jpg" alt="Jensen Huang">
 </p>
