@@ -1,103 +1,59 @@
 <div align="center">
+  <img src="img/TON-618.gif" width="100%" alt="TON 618 Banner">
 
-<img src="img/Space%20Stars%20GIF%20by%20SwitchMedia.gif" width="620" alt="Space stars animation"/>
+  <h1>Hello, TON is here!!!</h1>
+  <h2>Fathir Rizki Fadillah</h2>
 
-# TON
+  <p>Machine Learning | Deep Learning | Data Analytics | Arduino</p>
 
-### Fathir Rizki Fadillah
+  <h5>My Social Network:</h5>
 
-**Informatics Student | AI & Intelligent Systems Enthusiast**
-
-Exploring intelligence from data, code, and systems.
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-`AI` · `Machine Learning` · `Data Analytics` · `Robotics`
-
+  <p>
+    <a href="https://www.linkedin.com/in/fathir-rizki-fadillah-8931b931b/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:fathirrf80@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://instagram.com/frzkifadillah">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.kaggle.com/fathirrizkifadillah">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+    </a>
+  </p>
 </div>
 
----
+### My Favorite Game :
 
-## About
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+</p>
 
-Hi, I'm **Fathir Rizki Fadillah**, an Informatics student building my path in **Artificial Intelligence**, **Machine Learning**, and **Intelligent Systems**.
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
 
-I like turning ideas into working prototypes: from data-driven models and visual analytics to robotics experiments and simulation-based systems.
+### My Idol 😎💪
 
-> Knowledge has no event horizon. There is always something beyond.
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX1650">
+</p>
 
----
+<img src="img/Jensen-huang.jpg" alt="Jensen Huang">
 
-## Current Focus
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fathirrizkifadillah&theme=tokyonight&hide_border=true&ring=20BEFF&fire=EE4C2C&currStreakLabel=20BEFF" alt="GitHub Streak" />
+</p>
 
-- Machine Learning and Deep Learning
-- AI integration and automation
-- Data analytics and visualization
-- Robotics and embedded systems
 
----
+### Coding Activity
 
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB)
-![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0F172A?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0F172A?style=flat-square&logo=python&logoColor=60A5FA)
-![Seaborn](https://img.shields.io/badge/Seaborn-0F172A?style=flat-square&logo=python&logoColor=38BDF8)
-![C](https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0F172A?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED)
-![Arduino](https://img.shields.io/badge/Arduino-0F172A?style=flat-square&logo=arduino&logoColor=00979D)
-
-</div>
-
----
-
-## Featured Areas
-
-```python
-ton = {
-    "name": "Fathir Rizki Fadillah",
-    "username": "TON",
-    "role": "Informatics Student",
-    "interests": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Analytics",
-        "Robotics",
-        "Intelligent Systems"
-    ],
-    "mission": "Build intelligent systems that solve real-world problems."
-}
-```
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fathirrizkifadillah&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=fathirrizkifadillah&theme=transparent&hide_border=true&ring=60A5FA&fire=38BDF8&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak"/>
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathirrizkifadillah&layout=compact&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1" alt="Top languages"/>
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-fathirrf80%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:fathirrf80@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fathir%20Rizki%20Fadillah-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/fathir-rizki-fadillah-8931b931b)
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
