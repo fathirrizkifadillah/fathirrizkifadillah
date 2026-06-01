@@ -24,6 +24,8 @@
   </p>
 </div>
 
+---
+
 ### My Favorite Game :
 
 <p>
@@ -36,9 +38,25 @@
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
+---
+
+### Streakkk :
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fathirrizkifadillah&theme=tokyonight&hide_border=true&ring=20BEFF&fire=EE4C2C&currStreakLabel=20BEFF" alt="GitHub Streak">
+</p>
+
+---
+
+### Recent Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 
 ### My Idol 😎💪
 
@@ -46,9 +64,8 @@
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX1650">
 </p>
 
-<img src="img/Jensen-huang.jpg" alt="Jensen Huang">
-
 <p align="center">
+
   <img src="https://streak-stats.demolab.com?user=fathirrizkifadillah&theme=tokyonight&hide_border=true&ring=20BEFF&fire=EE4C2C&currStreakLabel=20BEFF" alt="GitHub Streak" />
 </p>
 
@@ -56,9 +73,8 @@
 ### Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
+  <img src="img/Jensen-huang.jpg" alt="Jensen Huang">
+</p>
+
