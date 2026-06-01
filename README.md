@@ -54,14 +54,6 @@
 ### Recent Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-Markdown   1 hr 23 mins          ████████████████▓░░░░░░░░   66.33 %
-Python     34 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
-Other      7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
