@@ -54,19 +54,11 @@
 ### Recent Activity
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
----
+```txt
+No activity tracked
+```
 
-### My Idol 😎💪
-
-<p>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX1650">
-</p>
-
-### Coding Activity
-
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
   <img src="img/Jensen-huang.jpg" alt="Jensen Huang">
