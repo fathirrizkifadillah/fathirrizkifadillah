@@ -64,12 +64,6 @@
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX1650">
 </p>
 
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=fathirrizkifadillah&theme=tokyonight&hide_border=true&ring=20BEFF&fire=EE4C2C&currStreakLabel=20BEFF" alt="GitHub Streak" />
-</p>
-
-
 ### Coding Activity
 
 <!--START_SECTION:waka-->
