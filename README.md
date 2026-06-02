@@ -46,7 +46,7 @@
 ### Streakkk :
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fathirrizkifadillah&theme=tokyonight&hide_border=true&ring=20BEFF&fire=EE4C2C&currStreakLabel=20BEFF" alt="GitHub Streak">
+  <img src="<img src="https://streak-stats.demolab.com?user=fathirrizkifadillah&theme=tokyonight&hide_border=true&t=1748820000">">
 </p>
 
 ---
