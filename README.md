@@ -51,21 +51,6 @@
 
 ---
 
-### Recent Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-Markdown   2 hrs 38 mins         ████████████▓░░░░░░░░░░░░   51.29 %
-Python     2 hrs 19 mins         ███████████▒░░░░░░░░░░░░░   45.22 %
-Other      7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-YAML       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
 ### Companies I follow
 
 <p>
