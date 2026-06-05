@@ -42,13 +42,14 @@
 </p>
 
 ---
-
+<!-- 
 ### Streakkk :
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fathirrizkifadillah&theme=tokyonight&hide_border=true&ring=20BEFF&fire=EE4C2C&currStreakLabel=20BEFF&v=2" alt="GitHub Streak">
 </p>
 
+ -->
 ---
 
 ### Companies I follow
