@@ -61,6 +61,20 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Cerebras-00B388?style=for-the-badge">
   <img src="https://img.shields.io/badge/Alibaba-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Waymo-00AEEF?style=for-the-badge&logo=waymo&logoColor=white" alt="Waymo">
+  <img src="https://img.shields.io/badge/CoreWeave-0B0B0F?style=for-the-badge&logoColor=white" alt="CoreWeave">
+  <img src="https://img.shields.io/badge/Boston%20Dynamics-000000?style=for-the-badge&logoColor=white" alt="Boston Dynamics">
+  <img src="https://img.shields.io/badge/Waymo-00AEEF?style=for-the-badge&logo=waymo&logoColor=white" alt="Waymo">
+  <img src="https://img.shields.io/badge/Figure%20AI-000000?style=for-the-badge&logoColor=white" alt="Figure AI">
+  <img src="https://img.shields.io/badge/Agility%20Robotics-111111?style=for-the-badge&logoColor=white" alt="Agility Robotics">
+  <img src="https://img.shields.io/badge/Unitree%20Robotics-111111?style=for-the-badge&logoColor=white" alt="Unitree Robotics">
+  <img src="https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=tesla&logoColor=white" alt="Tesla">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
 </p>
 
 ---
