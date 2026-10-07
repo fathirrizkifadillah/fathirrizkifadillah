@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/Vedora_struggle.gif" width="100%" alt="Vedora Struggle Banner">
+  <img src="img/vedora_struggle.gif" width="100%" alt="Vedora Struggle Banner">
 
   <h1>Hello, Vedora is here!!!</h1>
   <h2>Fathir Rizki Fadillah</h2>
