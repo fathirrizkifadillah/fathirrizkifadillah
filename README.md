@@ -1,7 +1,7 @@
 <div align="center">
   <img src="img/vedora_struggle (2).gif" width="100%" alt="Vedora Struggle Banner">
 
-  <h1>Hello, Vedora is here!!!</h1>
+  <h1>VEDORA</h1>
   <h2>Fathir Rizki Fadillah</h2>
 
   <p>Machine Learning | Deep Learning | Data Analytics | Arduino</p>
