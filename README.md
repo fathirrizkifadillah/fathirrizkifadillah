@@ -54,45 +54,105 @@
 ### Companies I follow
 
 <p>
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img src="https://img.shields.io/badge/META-0467DF?style=for-the-badge&logo=meta&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Anthropic-D4A373?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Palantir-101113?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Cerebras-00B388?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Alibaba-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Waymo-00AEEF?style=for-the-badge&logo=waymo&logoColor=white" alt="Waymo">
-  <img src="https://img.shields.io/badge/CoreWeave-0B0B0F?style=for-the-badge&logoColor=white" alt="CoreWeave">
-  <img src="https://img.shields.io/badge/Boston%20Dynamics-000000?style=for-the-badge&logoColor=white" alt="Boston Dynamics">
-  <img src="https://img.shields.io/badge/Waymo-00AEEF?style=for-the-badge&logo=waymo&logoColor=white" alt="Waymo">
-  <img src="https://img.shields.io/badge/Figure%20AI-000000?style=for-the-badge&logoColor=white" alt="Figure AI">
-  <img src="https://img.shields.io/badge/Agility%20Robotics-111111?style=for-the-badge&logoColor=white" alt="Agility Robotics">
-  <img src="https://img.shields.io/badge/Unitree%20Robotics-111111?style=for-the-badge&logoColor=white" alt="Unitree Robotics">
-  <img src="https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=tesla&logoColor=white" alt="Tesla">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-
+  <a href="https://www.nvidia.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA">
+  </a>
+  <a href="https://about.google/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google">
+  </a>
+  <a href="https://www.microsoft.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft">
+  </a>
+  <a href="https://about.meta.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/META-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta">
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  </a>
+  <a href="https://www.anthropic.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Anthropic-D4A373?style=for-the-badge" alt="Anthropic">
+  </a>
+  <a href="https://www.palantir.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Palantir-101113?style=for-the-badge" alt="Palantir">
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  </a>
+  <a href="https://www.cerebras.ai/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Cerebras-00B388?style=for-the-badge" alt="Cerebras">
+  </a>
+  <a href="https://www.alibabagroup.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Alibaba-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" alt="Alibaba">
+  </a>
+  <a href="https://www.amd.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD">
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  </a>
+  <a href="https://waymo.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Waymo-00AEEF?style=for-the-badge&logo=waymo&logoColor=white" alt="Waymo">
+  </a>
+  <a href="https://www.coreweave.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CoreWeave-0B0B0F?style=for-the-badge&logoColor=white" alt="CoreWeave">
+  </a>
+  <a href="https://bostondynamics.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Boston%20Dynamics-000000?style=for-the-badge&logoColor=white" alt="Boston Dynamics">
+  </a>
+  <a href="https://www.figure.ai/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Figure%20AI-000000?style=for-the-badge&logoColor=white" alt="Figure AI">
+  </a>
+  <a href="https://www.agilityrobotics.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Agility%20Robotics-111111?style=for-the-badge&logoColor=white" alt="Agility Robotics">
+  </a>
+  <a href="https://www.unitree.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Unitree%20Robotics-111111?style=for-the-badge&logoColor=white" alt="Unitree Robotics">
+  </a>
+  <a href="https://www.tesla.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tesla-CC0000?style=for-the-badge&logo=tesla&logoColor=white" alt="Tesla">
+  </a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  </a>
 </p>
 
 ---
 
 ### News Sources I Follow
 
+
+<h3>News Sources I Follow</h3>
+
 <p>
-  <img src="https://img.shields.io/badge/Reuters-FF8000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AP_News-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/BBC-News_BBC?style=for-the-badge&logo=bbc&logoColor=white">
-  <img src="https://img.shields.io/badge/TechCrunch-00D564?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MIT_Technology_Review-A31F34?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Ars_Technica-FF4E00?style=for-the-badge">
+  <a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Reuters-FF8000?style=for-the-badge" alt="Reuters">
+  </a>
+  <a href="https://apnews.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AP_News-000000?style=for-the-badge" alt="AP News">
+  </a>
+  <a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/BBC-News_BBC?style=for-the-badge&logo=bbc&logoColor=white" alt="BBC News">
+  </a>
+  <a href="https://techcrunch.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TechCrunch-00D564?style=for-the-badge" alt="TechCrunch">
+  </a>
+  <a href="https://www.technologyreview.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MIT_Technology_Review-A31F34?style=for-the-badge" alt="MIT Technology Review">
+  </a>
+  <a href="https://arstechnica.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ars_Technica-FF4E00?style=for-the-badge" alt="Ars Technica">
+  </a>
 </p>
+
 
 ---
 
