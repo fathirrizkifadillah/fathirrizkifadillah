@@ -152,18 +152,3 @@
     <img src="https://img.shields.io/badge/Ars_Technica-FF4E00?style=for-the-badge" alt="Ars Technica">
   </a>
 </p>
-
-
----
-
-### My Idol 😎💪
-
-<p>
-<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA">
-</p>
-
-Jensen Huang
-Founder & CEO of NVIDIA
-
-  <img src="img/Jensen-huang.jpg" alt="Jensen Huang">
-</p>
